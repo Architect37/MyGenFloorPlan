@@ -1,0 +1,7 @@
+dataset/Augmented/*
+dataset/Augmented_floorplan/*
+dataset/Original/A/output/*
+dev/.ipynb_checkpoints/*
+dev/Postprocessing/.ipynb_checkpoints/*
+dev/Preprocessing/.ipynb_checkpoints/*
+utils/.ipynb_checkpoints/*
