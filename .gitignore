@@ -1,0 +1,12 @@
+dataset/Augmented/A_processed/*
+dataset/Augmented/B_processed/*
+dataset/Augmented/Combined_2024_03_18_15_41/*
+dataset/Augmented/Combined_2024_03_18_16_18/*
+dataset/Augmented/Combined_2024_03_19_14_07/*
+dataset/Augmented/predicted/*
+dataset/Augmented/00/Generative Model_201_576fa809661da2103e54.png
+dataset/Augmented/00/Discriminator Model_201_d1f4b478f8452beb0747.png
+dataset/Original/A/output/*
+dataset/Original/Augmented_FloorPlan/*
+*.ipynb_checkpoints*
+dev/__pycache__/*
